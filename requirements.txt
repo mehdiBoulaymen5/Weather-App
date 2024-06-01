@@ -1,2 +1,2 @@
 streamlit
-open weather app 
+openweathermap
